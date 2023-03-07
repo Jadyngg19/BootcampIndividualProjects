@@ -1,1 +1,1 @@
-# BootcampIndividualProjects
+# IndividualProjects
